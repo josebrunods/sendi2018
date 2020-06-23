@@ -1,2 +1,9 @@
 # sendi2018
 Ciência de dados aplicada no combate ao furto de energia elétrica
+
+As perdas de energia elétrica nos últimos anos tem sido assunto prioritário para as distribuidoras do país devido a agressividade de mercado e as formas de como são realizados tais furtos nas redes de energia. Com fraudes cada vez mais sofisticadas, as distribuidoras de energia elétrica têm se deparado com muitas dificuldades para detectar tais problemas, pois o número de clientes só aumenta a cada dia e, inspecionar a todos seria uma tarefa árdua para a empresa. 
+Diante do problema exposto, o atual trabalho propõe-se, em parceria com a Enel Distribuição Ceará, a aplicação de estratégias baseadas na Ciência de Dados e técnicas de Data Mining (DM) com o objetivo de prever clientes com algum tipo de irregularidade em sua unidade consumidora, seja fraude e/ou defeito no equipamento de medição. 
+Foram utilizadas diversas técnicas de Machine Learning, desde as mais tradicionais, Árvore de Decisão e as Redes Neurais Artificiais, até as mais sofisticadas como Random Forest e Gradient Boosting. Os resultados alcançados validam a abordagem em Ciência de Dados adotada, contribuindo consideravelmente para previsão de clientes com algum tipo de problema, seja ele causado pela fraude ou por problemas intrínsecos da medição.
+Conforme a agressividade do mercado e indústria da fraude avançavam em novas formas de cometer o furto de energia, a equipe de Analytics implementou novas técnicas de Machine Learning, tais como Random Forest e Gradiente Boosting.
+
+Os resultados alcançados pelos novos modelos gerados alcançaram resultados satisfatórios superando em mais de 250% a quantidade de TOIs emitidos com uma recuperação de energia de 87,3 GWh faturados. Desta forma, a abordagem de Ciência de Dados contribui consideravelmente para previsão de clientes com algum tipo de problema, seja ele causado pela fraude ou por problemas intrínsecos da medição.
